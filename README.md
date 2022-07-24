@@ -1,25 +1,27 @@
-<h1 align="center">Hi 👋, I'm D Ther Htun</h1>
-<h3 align="center">I'm a Platform Engineer that loves to automate all the things</h3>
+<h1 align="center">Hi 👋, I'm Subhash Tyler</h1>
+
+<h3 align="center">I'm a DevOps/SRE Engineer that loves to work with OpenShift and Kubernetes.</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DTherHtun" alt="DTherHtun" /> </p>
 
-- 👨‍💻  Checkout my portfolio site, [https://dther.tf](https://dther.tf)
+- 👨‍💻  Checkout my LinkedIn, [https://www.linkedin.com/in/subhashtyler/](https://www.linkedin.com/in/subhashtyler/)
 
-- 📝  I write articles at [http://blog.k8smm.org](http://blog.k8smm.org)
+- 📝  I write articles at [https://twitter.com/SubhashTyler](https://twitter.com/SubhashTyler)
 
-- 📫  How to reach me **dtherhtun@yahoo.com**
+- 📫  How to reach me **subhashkumar127001@gmail.com**
 
 ### Tech Stack
-<img align="left" alt="AWS" width="26px" src="./svg/amazonaws.svg" />
-<img align="left" alt="GCP" width="26px" src="./svg/googlecloud.svg" />
-<img align="left" alt="Kubernetes" width="26px" src="./svg/kubernetes.svg" />
-<img align="left" alt="Openshift" width="26px" src="./svg/redhatopenshift.svg" />
-<img align="left" alt="Docker" width="26px" src="./svg/docker.svg" />
-<img align="left" alt="Terraform" width="26px" src="./svg/terraform.svg" />
-<img align="left" alt="Golang" width="26px" src="./svg/go.svg" />
-<img align="left" alt="Bash" width="26px" src="./svg/gnubash.svg" />
-<img align="left" alt="Git" width="26px" src="./svg/git.svg" />
-<img align="left" alt="Linux" width="26px" src="./svg/linux.svg" />
-<img align="left" alt="Opensource" width="26px" src="./svg/opensourceinitiative.svg" />
+<img align="left" alt="AWS" width="26px" src="./amazonaws.svg" />
+<img align="left" alt="GCP" width="26px" src="./googlecloud.svg" />
+<img align="left" alt="Kubernetes" width="26px" src="./kubernetes.svg" />
+<img align="left" alt="Openshift" width="26px" src="./redhatopenshift.svg" />
+<img align="left" alt="Docker" width="26px" src="./docker.svg" />
+<img align="left" alt="Terraform" width="26px" src="./terraform.svg" />
+<img align="left" alt="Golang" width="26px" src="./go.svg" />
+<img align="left" alt="Bash" width="26px" src="./gnubash.svg" />
+<img align="left" alt="Git" width="26px" src="./git.svg" />
+<img align="left" alt="Linux" width="26px" src="./linux.svg" />
+<img align="left" alt="Opensource" width="26px" src="./opensourceinitiative.svg" />
 <br>
 <br>
 <br>
@@ -32,6 +34,6 @@
 ### Connect with me
 
 
-<a href="https://linkedin.com/in/dtherhtun" target="__blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dtherhtun" width="22px" /></a>  
-<a href="https://fb.com/dtherhtun" target="__blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="dtherhtun" width="22px" /></a>  
-<a href="https://twitter.com/dtherhtun" target="__blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="dtherhtun" width="22px" /></a> 
+<a href="https://www.linkedin.com/in/subhashtyler/" target="__blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dtherhtun" width="22px" /></a>  
+<a href="https://www.facebook.com/SubhashTyler" target="__blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="dtherhtun" width="22px" /></a>  
+<a href="https://twitter.com/SubhashTyler" target="__blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="dtherhtun" width="22px" /></a> 
