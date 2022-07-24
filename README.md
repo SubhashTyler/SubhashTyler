@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm a DevOps/SRE Engineer that loves to work with OpenShift and Kubernetes.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DTherHtun" alt="DTherHtun" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SubhashTyler" alt="SubhashTyler" /> </p>
 
 - 👨‍💻  Checkout my LinkedIn, [https://www.linkedin.com/in/subhashtyler/](https://www.linkedin.com/in/subhashtyler/)
 
