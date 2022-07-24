@@ -28,7 +28,7 @@
 <br>
 
 
-![D Ther's github stats](https://github-readme-stats.vercel.app/api?username=DTherHtun&show_icons=true)
+![Subhash Tyler's github stats](https://github-readme-stats.vercel.app/api?username=SubhashTyler&show_icons=true)
 
 
 ### Connect with me
