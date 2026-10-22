@@ -18,7 +18,7 @@
 
 - 📝  I share research updates and articles at [https://twitter.com/SubhashTyler](https://twitter.com/SubhashTyler)
 
-- 📫  How to reach me **subhashkumar127001@gmail.com**
+- 📫  How to reach me **subhashkumar24cs@gmail.com**
 
 ### Research Interests
 
